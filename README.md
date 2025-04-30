@@ -1,6 +1,6 @@
 # 🌾 Crop Recommendation System using Machine Learning
 
-This project aims to recommend the most suitable crop to cultivate based on soil nutrients and environmental conditions using a Random Forest Classifier
+This project aims to recommend the most suitable crop to cultivate based on soil nutrients and environmental conditions using a Random Forest Classifier.
 
 ---
 
